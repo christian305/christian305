@@ -1,10 +1,28 @@
+```python
+def main():
+    message = (
+        "As a firm believer in the 'work smarter, not harder' philosophy, " +
+        "I'm on a quest to automate my life (and maybe one day, rule the world " +
+        "with my army of code minions!). In this pursuit, I tinker with " +
+        "programming to find amusing ways to outsource my chores and " +
+        "responsibilities, all while having a good laugh!"
+    )
+    print(message)
 
-***In this digital age, I find immense satisfaction in automating various aspects of my life. By leveraging the power of technology, I strive to streamline tasks and improve efficiency in my day-to-day activities. Through programming and creative problem-solving, I continuously explore new ways to minimize manual effort, optimize time, and enhance the overall quality of life. This passion for automation not only drives my personal growth but also fuels my enthusiasm for developing innovative solutions that can benefit others.***
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian305&show_icons=true&theme=ayu-mirage)
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+if __name__ == "__main__":
+    main()
+```
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=christian305&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=christian305&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=christian305&show_icons=true" />
+</picture>
 <!--
 **christian305/christian305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
