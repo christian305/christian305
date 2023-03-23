@@ -3,6 +3,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian305&show_icons=true&theme=ayu-mirage)
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **christian305/christian305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
