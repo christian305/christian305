@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian305&show_icons=true&theme=ayu-mirage)
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 <!--
 **christian305/christian305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
