@@ -1,6 +1,6 @@
-```
-In this digital age, I find immense satisfaction in automating various aspects of my life. By leveraging the power of technology, I strive to streamline tasks and improve efficiency in my day-to-day activities. Through programming and creative problem-solving, I continuously explore new ways to minimize manual effort, optimize time, and enhance the overall quality of life. This passion for automation not only drives my personal growth but also fuels my enthusiasm for developing innovative solutions that can benefit others.
-```
+
+	<sub>In this digital age, I find immense satisfaction in automating various aspects of my life. By leveraging the power of technology, I strive to streamline tasks and improve efficiency in my day-to-day activities. Through programming and creative problem-solving, I continuously explore new ways to minimize manual effort, optimize time, and enhance the overall quality of life. This passion for automation not only drives my personal growth but also fuels my enthusiasm for developing innovative solutions that can benefit others.</sub>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian305&show_icons=true&theme=ayu-mirage)
 <!--
